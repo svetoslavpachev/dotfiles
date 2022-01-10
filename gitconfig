@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = svetoslavpachevvv@gmail.com
+	name = Svetoslav Pachev
